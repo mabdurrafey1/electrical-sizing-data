@@ -1,0 +1,53 @@
+state,state_code,average_residential_price_cents_per_kwh
+US average,US,17.23
+Alabama,AL,16.09
+Alaska,AK,26.11
+Arizona,AZ,15.26
+Arkansas,AR,12.87
+California,CA,31.35
+Colorado,CO,15.69
+Connecticut,CT,29.31
+Delaware,DE,17.15
+District of Columbia,DC,21.92
+Florida,FL,15.21
+Georgia,GA,14.74
+Hawaii,HI,40.40
+Idaho,ID,11.83
+Illinois,IL,17.67
+Indiana,IN,15.96
+Iowa,IA,13.62
+Kansas,KS,14.44
+Kentucky,KY,13.13
+Louisiana,LA,12.52
+Maine,ME,27.69
+Maryland,MD,19.53
+Massachusetts,MA,30.41
+Michigan,MI,20.03
+Minnesota,MN,15.83
+Mississippi,MS,14.03
+Missouri,MO,13.30
+Montana,MT,12.99
+Nebraska,NE,12.05
+Nevada,NV,13.26
+New Hampshire,NH,24.53
+New Jersey,NJ,22.48
+New Mexico,NM,14.85
+New York,NY,26.39
+North Carolina,NC,14.00
+North Dakota,ND,11.82
+Ohio,OH,16.90
+Oklahoma,OK,13.21
+Oregon,OR,15.46
+Pennsylvania,PA,19.29
+Rhode Island,RI,29.48
+South Carolina,SC,15.12
+South Dakota,SD,13.32
+Tennessee,TN,13.22
+Texas,TX,15.40
+Utah,UT,13.02
+Vermont,VT,22.79
+Virginia,VA,15.28
+Washington,WA,13.17
+West Virginia,WV,15.39
+Wisconsin,WI,18.08
+Wyoming,WY,13.37

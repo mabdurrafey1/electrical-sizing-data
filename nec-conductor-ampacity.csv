@@ -1,0 +1,17 @@
+size,circular_mils,copper_ampacity_75c_amps,aluminum_ampacity_75c_amps,copper_small_conductor_limit_amps,aluminum_small_conductor_limit_amps
+14 AWG,4110,20,0,15,0
+12 AWG,6530,25,20,20,15
+10 AWG,10380,35,30,30,25
+8 AWG,16510,50,40,,
+6 AWG,26240,65,50,,
+4 AWG,41740,85,65,,
+3 AWG,52620,100,75,,
+2 AWG,66360,115,90,,
+1 AWG,83690,130,100,,
+1/0 AWG,105600,150,120,,
+2/0 AWG,133100,175,135,,
+3/0 AWG,167800,200,155,,
+4/0 AWG,211600,230,180,,
+250 kcmil,250000,255,205,,
+350 kcmil,350000,310,250,,
+500 kcmil,500000,380,310,,
