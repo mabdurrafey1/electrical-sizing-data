@@ -17,3 +17,7 @@ Open datasets behind [Load & Watt](https://loadandwatt.com) — free home electr
 ## Use the calculators
 
 Wire size, voltage drop, generator size, appliance running cost and 30+ more: https://loadandwatt.com
+
+## Methodology
+
+How these numbers are used, the formulas behind them, and how to check a result by hand: https://loadandwatt.com/methodology/
